@@ -1,2 +1,0 @@
-# kamal
-New to GitHub
